@@ -1,0 +1,5 @@
+{"stores": [
+  {"sapCode": "S101", "address": "г Пенза, ул Московская, д 1", "coordinates": {"latitude": 53.2000, "longitude": 45.0200}},
+  {"sapCode": "S102", "address": "г Пенза, ул Кирова, д 10", "coordinates": {"latitude": 53.1951, "longitude": 45.0185}},
+  {"address": "магазин без кода"}
+]}

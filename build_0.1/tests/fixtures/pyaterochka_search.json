@@ -1,0 +1,10 @@
+{"products": [
+  {"plu": "100", "name": "Молоко Простоквашино", "property_clarification": "930 мл", "is_available": true,
+   "prices": {"regular": 99.99}},
+  {"plu": "101", "name": "Молоко Домик в деревне 3.2% 1л", "is_available": true,
+   "prices": {"regular": 120.0, "discount": 89.9}},
+  {"plu": "102", "name": "Молоко сгущённое 380г", "is_available": false,
+   "prices": {"regular": 150.0}},
+  {"plu": "103", "name": "Товар без цены", "prices": {}},
+  {"plu": "104", "prices": {"regular": 10}}
+]}

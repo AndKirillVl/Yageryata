@@ -1,0 +1,10 @@
+{"term": "молоко", "items": [
+  {"id": "1000049786", "name": "Молоко Северная долина ультрапастеризованное 3.2% 950г", "price": 12499,
+   "promotion": {"oldPrice": null}, "isMissing": false},
+  {"id": "1000127183", "name": "Молоко Село Зеленое пастеризованное 3.2% 2кг", "price": 22499,
+   "promotion": {"oldPrice": 25999}, "isMissing": false},
+  {"id": "1899800733", "name": "Молоко Простоквашино 2.5% 930мл", "price": 8999,
+   "promotion": {"oldPrice": null}, "isMissing": true},
+  {"id": "5", "name": "Без цены", "price": 0},
+  {"name": "Без id", "price": 100}
+], "pagination": {"hasMore": false, "limit": 20, "offset": 0, "totalCount": 3}}

@@ -1,0 +1,9 @@
+{
+  "proxy": "",
+  "pyaterochka_cookie": "",
+  "pyaterochka_app_version": "8.45.0",
+  "pyaterochka_platform": "web",
+  "timeout_sec": 15,
+  "results_per_store": 20,
+  "min_interval_sec": 0.5
+}

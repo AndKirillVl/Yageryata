@@ -1,0 +1,5 @@
+{"items": {"items": [
+  {"coordinates": {"latitude": 53.2100, "longitude": 45.0300}, "externalId": {"owner": "OWNER_MAGNIT", "storeCode": "111"}, "storeTypeV2": "MM"},
+  {"coordinates": {"latitude": 53.1955, "longitude": 45.0190}, "externalId": {"owner": "OWNER_MAGNIT", "storeCode": "222"}, "storeTypeV2": "MM"},
+  {"coordinates": {"latitude": 53.1950, "longitude": 45.0183}, "externalId": {"owner": "OWNER_OTHER", "storeCode": "333"}, "storeTypeV2": "XX"}
+]}}
